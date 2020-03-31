@@ -33,7 +33,7 @@ An ultimate list of 10 best open-sources resources for web developers
 
 | Resource | Description  |
 |:-----|:-------------|
-| [covid19](https://github.com/stevenliuyi/covid19 | An interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States). |
+| [covid19](https://github.com/stevenliuyi/covid19) | An interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States). |
 | [covidtesting](https://testing.predictcovid.com/) | The COVID-19 Testing Gap: an interactive data visualization. |
 
 ## CLI
@@ -41,4 +41,3 @@ An ultimate list of 10 best open-sources resources for web developers
 | Resource | Description  |
 |:-----|:-------------|
 | [corona-cli](https://github.com/ahmadawais/corona-cli) | Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms).  |
-| [covid-19-data](https://github.com/nytimes/covid-19-data) | Coronavirus (Covid-19) Data in the United States (CSV). |
