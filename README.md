@@ -1,5 +1,5 @@
 # COVID-19 Resources For The Web
-An ultimate list of best open-sources resources for web developers
+An ultimate list of open-source COVID-19 (Coronavirus) resources for web developers.
 
 ![Covid-19 Cases](https://covid19-badges.herokuapp.com/confirmed/latest) ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
 
