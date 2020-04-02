@@ -33,6 +33,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [covid-19](https://github.com/trekhleb/covid-19) |  Coronavirus (COVID-19) dashboard to show the dynamics of Сoronovirus distribution per country. |
 | [covid19-live-visualization](https://github.com/localeai/covid19-live-visualization) |  Live visualization of novel corona virus (COVID19) outbreak. |
 | [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) |  Map, data and timeline of coronavirus (COVID-19) |
+| [Interactive COVID-19 Country Tracker](https://github.com/lachlanjc/covid19) |  Visualize & track the 2020 COVID-19 pandemic by country. |
 
 ## Data Visualization
 
@@ -40,11 +41,18 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 |:-----|:-------------|
 | [covid19](https://github.com/stevenliuyi/covid19) | An interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries (including China, Italy, Korea, Japan, France, Germany, United States). |
 | [covidtesting](https://testing.predictcovid.com/) | The COVID-19 Testing Gap: an interactive data visualization. |
-| [2019-nCov](https://github.com/yjlou/2019-nCov) | Use Google Maps Timeline data to compare with COVID-19 patient history location.  |
+| [2019-nCov](https://github.com/yjlou/2019-nCov) | Use Google Maps Timeline data to compare with COVID-19 patient history location. |
+| [covid-19-spread-simulator](https://github.com/midudev/covid-19-spread-simulator) | Check simulations about how confinement people could help to stop spreading Coronavirus. |
 
 ## CLI
 
 | Resource | Description  |
 |:-----|:-------------|
 | [corona-cli](https://github.com/ahmadawais/corona-cli) | Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). |
-| [covid19-tracker-cli](https://github.com/WarenGonzaga/covid19-tracker-cli) | A curl-based command line tracker for Novel Coronavirus or COVID-19 pandemic. It Supports terminal for linux and macos, command prompt for windows, and termux for android with real-time updates.  |
+| [covid19-tracker-cli](https://github.com/WarenGonzaga/covid19-tracker-cli) | A curl-based command line tracker for Novel Coronavirus or COVID-19 pandemic. It Supports terminal for linux and macos, command prompt for windows, and termux for android with real-time updates. |
+| [covid19-cli](https://github.com/garrylachman/covid19-cli) | https://github.com/garrylachman/covid19-cli |
+
+## More Resources
+
+* [Best Free Coronavirus Disease (COVID-19) Design Resources](https://365webresources.com/coronavirus-covid-19-design-resources/)
+* [Best Coronavirus Disease (COVID-19) Plugins For WordPress Website](https://wpmissing.com/plugins/best-coronavirus-disease-covid-19/)
