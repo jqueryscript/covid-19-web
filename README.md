@@ -22,6 +22,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [covid-19-api](https://github.com/mathdroid/covid-19-api) | COVID-19 global data (from JHU CSSE for now) as-a-service |
 | [covid19](https://github.com/pomber/covid19) | JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily |
 | [COVID-19-API](https://github.com/Laeyoung/COVID-19-API) | API Service for tracking the COVID-19 |
+| [Covid Tracking API](https://github.com/COVID19Tracking/covid-tracking-api) | A Cloudflare Worker that makes a requests to get the sheet info and then cleans it up a bit and returns an array of values. |
 
 ## Application
 
@@ -34,6 +35,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [covid19-live-visualization](https://github.com/localeai/covid19-live-visualization) |  Live visualization of novel corona virus (COVID19) outbreak. |
 | [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) |  Map, data and timeline of coronavirus (COVID-19) |
 | [Interactive COVID-19 Country Tracker](https://github.com/lachlanjc/covid19) |  Visualize & track the 2020 COVID-19 pandemic by country. |
+| [CoronaBoard](https://github.com/soaple/corona-board) | Global dashboard for monitoring Corona virus(COVID-19) |
 
 ## Data Visualization
 
@@ -43,6 +45,8 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [covidtesting](https://testing.predictcovid.com/) | The COVID-19 Testing Gap: an interactive data visualization. |
 | [2019-nCov](https://github.com/yjlou/2019-nCov) | Use Google Maps Timeline data to compare with COVID-19 patient history location. |
 | [covid-19-spread-simulator](https://github.com/midudev/covid-19-spread-simulator) | Check simulations about how confinement people could help to stop spreading Coronavirus. |
+| [covid-19charts.com](https://github.com/wokalski/covid-19charts.com) | Interactive chart of COVID-19 cases per location. |
+| [COVID-19-Charts](https://github.com/ohdarling/COVID-19-Charts) | Trending and Map charts for COVID-19. |
 
 ## CLI
 
