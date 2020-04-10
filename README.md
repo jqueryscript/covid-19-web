@@ -12,6 +12,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset) | An open database of COVID-19 cases with chest X-ray or CT images. |
 | [2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) | This public repository archives data over time from various public sources on the web. |
 | [Open COVID-19 Dataset](https://github.com/open-covid-19/data) | Datasets of historical data related to COVID-19. |
+| [google-covid19-mobility-reports](https://github.com/vitorbaptista/google-covid19-mobility-reports) | Archive of the Google COVID-19 Mobility Reports' PDFs and their data extracted as a CSV. |
 
 ## API
 
@@ -36,6 +37,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [2019-ncov-frontend](https://github.com/sorxrob/2019-ncov-frontend) |  Map, data and timeline of coronavirus (COVID-19) |
 | [Interactive COVID-19 Country Tracker](https://github.com/lachlanjc/covid19) |  Visualize & track the 2020 COVID-19 pandemic by country. |
 | [CoronaBoard](https://github.com/soaple/corona-board) | Global dashboard for monitoring Corona virus(COVID-19) |
+| [covidtrends](https://aatishb.com/covidtrends/) | Tracking the growth of COVID-19 Cases worldwide |
 
 ## Data Visualization
 
@@ -47,6 +49,8 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [covid-19-spread-simulator](https://github.com/midudev/covid-19-spread-simulator) | Check simulations about how confinement people could help to stop spreading Coronavirus. |
 | [covid-19charts.com](https://github.com/wokalski/covid-19charts.com) | Interactive chart of COVID-19 cases per location. |
 | [COVID-19-Charts](https://github.com/ohdarling/COVID-19-Charts) | Trending and Map charts for COVID-19. |
+| [coronavirus-simulation](https://fatiherikli.github.io/coronavirus-simulation/) | Simulating coronavirus with the SIR model |
+| [virus-spreading](https://github.com/MTrajK/virus-spreading) | Simple virus spreading simulation tool made with plain/vanilla JavaScript |
 
 ## CLI
 
