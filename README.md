@@ -50,7 +50,8 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [covid-19charts.com](https://github.com/wokalski/covid-19charts.com) | Interactive chart of COVID-19 cases per location. |
 | [COVID-19-Charts](https://github.com/ohdarling/COVID-19-Charts) | Trending and Map charts for COVID-19. |
 | [coronavirus-simulation](https://fatiherikli.github.io/coronavirus-simulation/) | Simulating coronavirus with the SIR model |
-| [virus-spreading](https://github.com/MTrajK/virus-spreading) | Simple virus spreading simulation tool made with plain/vanilla JavaScript |
+| [virus-spreading](https://github.com/MTrajK/virus-spreading) | Simple virus spreading simulation tool made with plain/vanilla JavaScript. |
+| [COVID-3D](https://github.com/sorxrob/covid-3d) | 3D visualization of latest data regarding Coronavirus cases, provided by the World Health Organization.  |
 
 ## CLI
 
