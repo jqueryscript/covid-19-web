@@ -38,6 +38,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [Interactive COVID-19 Country Tracker](https://github.com/lachlanjc/covid19) |  Visualize & track the 2020 COVID-19 pandemic by country. |
 | [CoronaBoard](https://github.com/soaple/corona-board) | Global dashboard for monitoring Corona virus(COVID-19) |
 | [covidtrends](https://aatishb.com/covidtrends/) | Tracking the growth of COVID-19 Cases worldwide |
+| [covid19-full-stack-application](https://github.com/anshumanpattnaik/covid19-full-stack-application) | (COVID-19) Full Stack Application |
 
 ## Data Visualization
 
@@ -59,7 +60,8 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 |:-----|:-------------|
 | [corona-cli](https://github.com/ahmadawais/corona-cli) | Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). |
 | [covid19-tracker-cli](https://github.com/WarenGonzaga/covid19-tracker-cli) | A curl-based command line tracker for Novel Coronavirus or COVID-19 pandemic. It Supports terminal for linux and macos, command prompt for windows, and termux for android with real-time updates. |
-| [covid19-cli](https://github.com/garrylachman/covid19-cli) | https://github.com/garrylachman/covid19-cli |
+| [covid19-cli](https://github.com/garrylachman/covid19-cli) | Corona Virus (Covid 19) BASH Tracking CLI |
+| [cli-covid19](https://github.com/aligoren/cli-covid19) | Terminal COVID-19 Tracker |
 
 ## More Resources
 
