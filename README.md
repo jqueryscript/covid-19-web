@@ -39,6 +39,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [CoronaBoard](https://github.com/soaple/corona-board) | Global dashboard for monitoring Corona virus(COVID-19) |
 | [covidtrends](https://aatishb.com/covidtrends/) | Tracking the growth of COVID-19 Cases worldwide |
 | [covid19-full-stack-application](https://github.com/anshumanpattnaik/covid19-full-stack-application) | (COVID-19) Full Stack Application |
+| [Covid-19-Statistics-Dashboard-Angular-9](https://github.com/OssamaRafique/Covid-19-Statistics-Dashboard-Angular-9) | Corona Virus / Covid 19 Tracker Dashboard With Awesome UI + PWA + NodeJS Scraper |
 
 ## Data Visualization
 
@@ -53,6 +54,7 @@ An ultimate list of open-source COVID-19 (Coronavirus) resources for web develop
 | [coronavirus-simulation](https://fatiherikli.github.io/coronavirus-simulation/) | Simulating coronavirus with the SIR model |
 | [virus-spreading](https://github.com/MTrajK/virus-spreading) | Simple virus spreading simulation tool made with plain/vanilla JavaScript. |
 | [COVID-3D](https://github.com/sorxrob/covid-3d) | 3D visualization of latest data regarding Coronavirus cases, provided by the World Health Organization.  |
+| [COVID-19 Data Badges](https://github.com/fight-covid19/bagdes) | svg badges displaying cases, deaths, and 24h changes |
 
 ## CLI
 
